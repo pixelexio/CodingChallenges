@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+__author__ = 'pixelexio'
+__email__ = 'hello@pixelex.io'
+__license__ = 'GPLv3'
 
 """ 
 Exercise 01 - practicepython.org
@@ -11,11 +14,6 @@ Add on to the previous program by asking the user for another number
 and printing out that many copies of the previous message.
 """
 
-__author__ = 'pixelexio'
-__email__ = 'hello@pixelex.io'
-__license__ = 'GPLv3'
-
-# Includes
 import datetime
 
 while True:
@@ -36,7 +34,7 @@ years = 100 - int(userAge)
 print("\nHello {}, you are {} years old.".format(userName, userAge))
 print("You will turn 100 in {} years.\n".format(years))
 
-# Exercise extras
+# Extras
 while True:
     anumber = input("Enter a number from 1 to 10: ")
     if anumber.isnumeric() and int(anumber) in range(1, 11):
