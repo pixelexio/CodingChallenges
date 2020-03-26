@@ -18,8 +18,6 @@ __license__ = 'GPLv3'
 # Includes
 import datetime
 
-year = datetime.date.today().year
-
 while True:
     userName = input("What's your first name? ")
     if userName.isalpha():
@@ -32,6 +30,7 @@ while True:
         break
     print("Ivalid input. Your age should be a number.")
 
+year = datetime.date.today().year
 years = 100 - int(userAge)
 
 print("\nHello {}, you are {} years old.".format(userName, userAge))
