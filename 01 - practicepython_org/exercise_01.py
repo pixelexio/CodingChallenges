@@ -19,16 +19,16 @@ __license__ = 'GPLv3'
 import datetime
 
 while True:
-    userName = input("What's your first name? ")
+    userName = input("What is your first name?: ")
     if userName.isalpha():
         break
-    print("Invalid input. Your name should contain letters only.")
-
+    print("\nIvalid input. Your age should be a number.")
+    
 while True:
     userAge = input("What is your age?: ")
     if userAge.isdigit():
         break
-    print("Ivalid input. Your age should be a number.")
+    print("\nIvalid input. Your age should be a number.")
 
 year = datetime.date.today().year
 years = 100 - int(userAge)
@@ -41,7 +41,7 @@ while True:
     anumber = input("Enter a number from 1 to 10: ")
     if anumber.isnumeric() and int(anumber) in range(1, 11):
         break
-    print("Ivalid input.")
+    print("\nIvalid input.")
 
 print("\nThank you! I will now print the last answer {} times :)".format(anumber))
 for x in range(0, int(anumber)):
