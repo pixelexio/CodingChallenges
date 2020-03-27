@@ -37,7 +37,7 @@ list1 = [random.randrange(1, 30, 1) for i in range(random.randrange(15, 30, 1))]
 list2 = [random.randrange(1, 30, 1) for i in range(random.randrange(15, 30, 1))]
 print("List1: {}".format(list1))
 print("List2: {}".format(list2))
-print("Intersection: {}".format(list(set(list1).intersection(list2))))
+print("Intersection: {}".format(set(list1).intersection(set(list2))))
 
 # Extras 2: print intersection of two list in one line of code
 print("\nThe intersection of two lists with onle line of code:")
