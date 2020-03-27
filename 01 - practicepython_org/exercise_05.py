@@ -17,12 +17,12 @@ Extras:
 2. Write this in one line of Python
 """
 
-import random 
+import random as r
 
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 
-print("\nThe provided lists: \na = {}\nb = {}".format(a, b))
+print(f"\nThe provided lists: \na = {a}\nb = {b}")
 
 # make a new list containing elements in both a and b
 print("\nIntersection of list a and b:")
@@ -33,11 +33,12 @@ else:
 
 # Extras 1: random generate list lengths and numbers
 print("\nIntersection of two lists with random lenght and numbers:")
-list1 = [random.randrange(1, 30, 1) for i in range(random.randrange(15, 30, 1))]
-list2 = [random.randrange(1, 30, 1) for i in range(random.randrange(15, 30, 1))]
-print("List1: {}".format(list1))
-print("List2: {}".format(list2))
-print("Intersection: {}".format(set(list1).intersection(set(list2))))
+def rand_lists_isect(out_min, out_max, size_min, size_max):
+    list1 = [r.randint(out_min,out_max) for _ in range(r.randint(size_min,size_max))]
+    list2 = [r.randint(out_min,out_max) for _ in range(r.randint(size_min,size_max))]
+    print(f"List1: {list1} \nList2: {list2}")
+    print(f"Intersection: {set(list1).intersection(set(list2))}")
+rand_lists_isect(1,30,15,30)
 
 # Extras 2: print intersection of two list in one line of code
 print("\nThe intersection of two lists with onle line of code:")
