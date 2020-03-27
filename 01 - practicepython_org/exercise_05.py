@@ -6,7 +6,7 @@ __email__ = 'hello@pixelex.io'
 __license__ = 'GPLv3'
 
 """ 
-Exercise 06 - practicepython.org
+Exercise 05 - practicepython.org
 
 Take two lists and write a program that returns a list 
 that contains only the elements that are common between the lists.
