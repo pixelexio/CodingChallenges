@@ -29,5 +29,5 @@ for x in range(1,num+1):
         divisors.append(x)
 
 # print the result
-print("\nThe divisors of {} is:".format(num))
+print(f"\nThe divisors of {num} is:")
 print(*divisors, sep=", ")
