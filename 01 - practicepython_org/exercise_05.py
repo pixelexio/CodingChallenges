@@ -6,7 +6,7 @@ __email__ = 'hello@pixelex.io'
 __license__ = 'GPLv3'
 
 """ 
-Exercise 05 - practicepython.org
+Exercise 06 - practicepython.org
 
 Take two lists and write a program that returns a list 
 that contains only the elements that are common between the lists.
@@ -32,13 +32,19 @@ else:
     print("No elements in both lists")  
 
 # Extras 1: random generate list lengths and numbers
-print("\nIntersection of two lists with random lenght and numbers:")
-def rand_lists_isect(out_min, out_max, size_min, size_max):
-    list1 = [r.randint(out_min,out_max) for _ in range(r.randint(size_min,size_max))]
-    list2 = [r.randint(out_min,out_max) for _ in range(r.randint(size_min,size_max))]
-    print(f"List1: {list1} \nList2: {list2}")
-    print(f"Intersection: {set(list1).intersection(set(list2))}")
-rand_lists_isect(1,30,15,30)
+print("\nIntersection of two lists with random length and numbers.")
+print("Made in a funktion and ran two times to see different results:\n")
+def rand_sets_isect(values, size):
+    get_rand_set = lambda values, size: {r.randint(*values) for _ in range(r.randint(*size))}
+    set1 = get_rand_set(values, size)
+    set2 = get_rand_set(values, size)
+    print(f"Set 1: {list(set1)}", f"Set 2: {list(set2)}", sep="\n")
+    print(f"Intersection: {list(set1.intersection(set2))}\n")
+for times in range(2):
+    rand_sets_isect( [1,30], [15,30] )
+
+
+
 
 # Extras 2: print intersection of two list in one line of code
 print("\nThe intersection of two lists with onle line of code:")
