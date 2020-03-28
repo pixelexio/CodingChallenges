@@ -14,6 +14,8 @@ print out a message of congratulations to the winner, and ask if the players wan
 
 Remember the rules: Rock beats scissors, Scissors beats paper, Paper beats rock
 """
+# This is version one with one round of game. I will add scoreboard and multiple rounds in later version.
+
 import os
 def cls():
     os.system('cls' if os.name == 'nt' else 'clear')
