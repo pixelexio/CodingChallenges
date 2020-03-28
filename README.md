@@ -4,7 +4,7 @@ This is the place I will be doing different coding callenges from beginner to mo
 Note that I will probably add some extra code to the easyest challenges for testing and learning purposes, but the task vill be solved.
 
 | Ongoing Exercices  	       |   	|   	|   	|   	|
-|---	                      |---	|---	|---	|---	|
+|:---	                      |---	|---	|---	|---	|
 | www.practicepython.org  	|   	|   	|   	|   	|
 | www.pythonchallenge.com  	|   	|   	|   	|   	|
 |                         	|   	|   	|   	|   	|
