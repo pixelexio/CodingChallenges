@@ -3,9 +3,9 @@
 This is the place I will be doing different coding callenges from beginner to more advaced.
 Note that I will probably add some extra code to the easyest challenges for testing and learning purposes, but the task vill be solved.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Ongoing        | Exercices    | Cool  |
+| -------------------|:-------------:| -----:|
+| practicepythonorg | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
