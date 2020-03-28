@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8.x
 # -*- coding: utf-8 -*-
 __author__ = 'pixelexio'
 __email__ = 'hello@pixelex.io'
@@ -31,8 +31,8 @@ while True:
 year = datetime.date.today().year
 years = 100 - int(userAge)
 
-print("\nHello {}, you are {} years old.".format(userName, userAge))
-print("You will turn 100 in {} years.\n".format(years))
+print(f"\nHello {userName}, you are {userAge} years old.")
+print(f"You will turn 100 in {years} years.\n")
 
 # Extras
 while True:
@@ -41,7 +41,7 @@ while True:
         break
     print("\nIvalid input.")
 
-print("\nThank you! I will now print the last answer {} times :)".format(anumber))
+print(f"\nThank you! I will now print the last answer {anumber} times :)")
 for x in range(0, int(anumber)):
-    print("You will turn 100 in {} years.".format(years))
+    print(f"You will turn 100 in {years} years.")
     

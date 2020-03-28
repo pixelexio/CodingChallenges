@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8.x
 # -*- coding: utf-8 -*-
 
 __author__ = 'pixelexio'
@@ -20,7 +20,7 @@ Extras:
 """
 
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
-print("\nOriginal list: \n{}".format(a))
+print(f"\nOriginal list: \n{a}")
 
 print("\nPrint elements lower than 5:")
 for x in a: 
@@ -58,12 +58,12 @@ for y in a:
     if y <= num:
         c.append(y)
 if len(c) == 0:
-    print("\nThere is no element in the list equal or lower than {}:".format(num))
+    print(f"\nThere is no element in the list equal or lower than {num}:")
 elif len(a) == len(c):
-    print("\nAll elements in the list equal or lower than {}:".format(num))
+    print(f"\nAll elements in the list equal or lower than {num}:")
     print(c)
 if len(c) == 1: # in case the list is changes (lowest number of elements is 2 with current list).
-    print("\nThere is 1 element in the list equal or lower than {}:".format(num))
+    print(f"\nThere is 1 element in the list equal or lower than {num}:")
 else:
-    print("\nThere is {} elements in the list equal or lower than {}:".format(len(c), num))
+    print(f"\nThere is {len(c)} elements in the list equal or lower than {num}:")
     print(c)

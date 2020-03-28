@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8.x
 # -*- coding: utf-8 -*-
 
 __author__ = 'pixelexio'

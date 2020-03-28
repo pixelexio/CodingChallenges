@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8.x
 # -*- coding: utf-8 -*-
 
 __author__ = 'pixelexio'
@@ -35,15 +35,15 @@ while True:
      continue
 
 if num % 4 == 0:
-    oddeven = "\n{} is an even number and a multiple of 4".format(num)
+    oddeven = f"\n{num} is an even number and a multiple of 4"
 elif num % 2 == 0:
-    oddeven = "\n{} is an even number".format(num)
+    oddeven = f"\n{num} is an even number"
 else:
-    oddeven = "\n{} is an odd number".format(num)
+    oddeven = f"\n{num} is an odd number"
 
 if (num % check) == 0:
-    devides = "and yes, it divides evenly by {}".format(check)
+    devides = f"and yes, it divides evenly by {check}"
 else:
-    devides = "and no, it does not divide evenly by {}".format(check)
+    devides = f"and no, it does not divide evenly by {check}"
 
 print(oddeven, devides)
