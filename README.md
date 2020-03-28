@@ -3,12 +3,9 @@
 This is the place I will be doing different coding callenges from beginner to more advaced.
 Note that I will probably add some extra code to the easyest challenges for testing and learning purposes, but the task vill be solved.
 
-| Ongoing Exercices  	       |   	|   	|   	|   	|
-|:---	                      |---	|---	|---	|---	|
-| www.practicepython.org  	|   	|   	|   	|   	|
-| www.pythonchallenge.com  	|   	|   	|   	|   	|
-|                         	|   	|   	|   	|   	|
+| Ongoing Exercices  	      | Tot exercices	| contributors	| solved 	| Unsoved  | waiting for upgrade  |
+|:---	                      |:---	          |:---	          |:---	|:---	|:--                               |
+| www.practicepython.org  	| 36 beginner  	| pixelexio     | 78  | 28  |  1                               |
+| www.pythonchallenge.com  	|   	          |   	          |   	|   	|                                 | 
+|                         	|   	          |   	          |   	|   	|                                  |   
 
-
-[01_practicepython.org](https://github.com/pixelexio/CodingChallenges/tree/master/01%20-%20practicepython_org)
-You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, bu
