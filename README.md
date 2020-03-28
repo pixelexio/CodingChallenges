@@ -5,7 +5,7 @@ Note that I will probably add some extra code to the easyest challenges for test
 
 | Ongoing Exercices  	                 | Tot exercices	| contributors	| solved 	| rest      | currenty working on  |
 |:---	                                 |:---	          |:---	          |:---	    |:---	      |:--           |
-| www.practicepython.org  	           | 36 levels  	  | pixelexio     | 78      | 28        |             |
+| [www.practicepython.org](../../)  	           | 36 levels  	  | pixelexio     | 78      | 28        |             |
 | www.pythonchallenge.com  	           | 33 levels      |              	| 72      | 72        |             |
 | odingbat.com/python     	           | 72             |   	          |   	    |    	      |             |   
 |https://edabit.com/challenges/python3 | 100+           |              | 0       |           |          |
