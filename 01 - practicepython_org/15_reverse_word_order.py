@@ -22,15 +22,13 @@ def reverse_string1(user_string):
     for item in user_list:
         reverse_list.append(user_list[list_items-counter])
         counter += 1
-    print("Your sentence: ", user_list)
-    print("Your sentence: ", reverse_list)
+    print(*reverse_list, sep=" ")
 
 # version 2 using slicing operator
 def reverse_string2(user_string):
     user_list = user_string.split()
     reverse_list = user_list[::-1]
-    print("Original:", user_list)
-    print("Reverse :", reverse_list)
+    print(*reverse_list, sep=" ")
 
 # version 3 using reversed() function
 def reverse_string3(user_string):
@@ -38,12 +36,21 @@ def reverse_string3(user_string):
     for item in reversed(user_list):
         print(item, end=" ")
 
+# version 4 using one line in a function
+def reverse_string4(user_string):
+  print(" ".join(user_string.split()[::-1]))
+
 user_input =input("Please input a sentence with multiple words: ")
+print("\nUser input:\n" + user_input)
+
 print("\nUsing a loop:")
 reverse_string1(user_input)
 print("\nUsing a slicing operator:")
 reverse_string2(user_input)
 print("\nUsing the reversed function:")
 reverse_string3(user_input)
+print("")
+print("\nUsing the one line in function:")
+reverse_string4(user_input)
 print("")
 
