@@ -21,6 +21,7 @@ import random
 random_number = random.randint(1,9)
 guess = 0
 guess_count = 0
+
 while guess != random_number and guess != "exit":
     guess = input("Enter a guess between 1 to 9: ")
 
