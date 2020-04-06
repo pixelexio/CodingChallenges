@@ -32,9 +32,9 @@ while guess != random_number and guess != "exit":
     guess_count += 1
 
     if guess < random_number:
-        print("Your gyess is too low")
+        print("Your guess is too low")
     elif guess > random_number:
-        print("Your gyess is too high")
+        print("Your guess is too high")
     else:
         if guess_count == 1:
             print("\nYes, you got it right on first guess!")
