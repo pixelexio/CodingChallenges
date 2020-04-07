@@ -3,9 +3,14 @@
 This is the place I will be doing different coding callenges from beginner to more advaced.
 Note that I will probably add some extra code to the easyest challenges for testing and learning purposes, but the task vill be solved.
 
-[ ![GitHub CodingChallenges last commit](https://img.shields.io/github/last-commit/pixelexio/CodingChallenges) ](https://github.com/pixelexio/CodingChallenges/)
+[![GitHub CodingChallenges last commit](https://img.shields.io/github/last-commit/pixelexio/CodingChallenges)][1]
 
 [ ![Discord](https://img.shields.io/discord/181721195073241088?label=Discord) ](https://discord.gg/wDzNCf5)
+
+![GitHub followers](https://img.shields.io/github/followers/pixelexio?style=social)
+
+[1][https://github.com/pixelexio/CodingChallenges/]
+
 
 | Ongoing Exercices  	                 | Tot exercices	| Solved		| Rest		| Notes| 
 |:---	                                 |:---	          	|:---	          	|:---	    	|:---	      	|
