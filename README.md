@@ -14,6 +14,7 @@ Note that I will probably add some extra code to the easyest challenges for test
 [ClosedIssues]: https://img.shields.io/github/issues-closed-raw/pixelexio/CodingChallenges
 [GitContributors]: https://badgen.net/github/contributors/pixelexio/CodingChallenges
 
+
 | Ongoing Exercices  	                 | Tot exercices	| Solved		| Rest		| Notes| 
 |:---	                                 |:---	          	|:---	          	|:---	    	|:---	      	|
 |[**01_practicepython.org**](https://github.com/pixelexio/CodingChallenges/tree/master/01%20-%20practicepython_org)| 36  | 15 | 21    | Easy start with level beginner         | 
