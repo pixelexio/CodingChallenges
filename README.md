@@ -1,10 +1,10 @@
 # Coding Challenges
+[![GitHub CodingChallenges last commit](https://img.shields.io/github/last-commit/pixelexio/CodingChallenges)][GitCommit] ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pixelexio/CodingChallenges) ![OpenIssues][OpenIssues] ![GitContributors][GitContributors] ![license][GitLicense]\
+[![Join the chat at https://gitter.im/git-pixelexio-CodingChallenges/community](https://badges.gitter.im/pixCodeSnippets/community.svg)](https://gitter.im/pixCodeSnippets/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Discord](https://img.shields.io/discord/181721195073241088?color=%237289da&label=Discord)][DiscordLink] ![Liberapay patrons](https://img.shields.io/liberapay/patrons/pixelexio) [![GitHub followers](https://img.shields.io/github/followers/pixelexio?style=social)][GitFollowers]
 
 This is the place I will be doing different coding callenges from beginner to more advaced.
 Note that I will probably add some extra code to the easyest challenges for testing and learning purposes, but the task vill be solved.
 
-[![GitHub CodingChallenges last commit](https://img.shields.io/github/last-commit/pixelexio/CodingChallenges)][GitCommit] ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pixelexio/CodingChallenges) ![OpenIssues][OpenIssues] ![GitContributors][GitContributors] ![license][GitLicense]\
-[![Join the chat at https://gitter.im/git-pixelexio-CodingChallenges/community](https://badges.gitter.im/pixCodeSnippets/community.svg)](https://gitter.im/pixCodeSnippets/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Discord](https://img.shields.io/discord/181721195073241088?color=%237289da&label=Discord)][DiscordLink] ![Liberapay patrons](https://img.shields.io/liberapay/patrons/pixelexio) [![GitHub followers](https://img.shields.io/github/followers/pixelexio?style=social)][GitFollowers]
 
 [GitCommit]:https://github.com/pixelexio/CodingChallenges/
 [DiscordLink]: https://discord.gg/wDzNCf5
