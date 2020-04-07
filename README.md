@@ -9,7 +9,7 @@ Note that I will probably add some extra code to the easyest challenges for test
 
 ![GitHub followers](https://img.shields.io/github/followers/pixelexio?style=social)
 
-[1][https://github.com/pixelexio/CodingChallenges/]
+[1]:https://github.com/pixelexio/CodingChallenges/
 
 
 | Ongoing Exercices  	                 | Tot exercices	| Solved		| Rest		| Notes| 
