@@ -6,7 +6,7 @@ __email__ = 'hello@pixelex.io'
 __license__ = 'GPLv3'
 
 """ 
-Exercise 13 - practicepython.org
+Exercise 14 - practicepython.org
 
 Write a program (function!) that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
 
