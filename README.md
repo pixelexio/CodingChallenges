@@ -15,9 +15,9 @@ Note that I will probably add some extra code to the easyest challenges for test
 [GitContributors]: https://badgen.net/github/contributors/pixelexio/CodingChallenges
 
 
-| Ongoing Exercices  	                 | Tot exercices	| Solved		| Rest		| Notes| 
-|:---	                                 |:---	          	|:---	          	|:---	    	|:---	      	|
-|[**01_practicepython.org**](https://github.com/pixelexio/CodingChallenges/tree/master/01%20-%20practicepython_org)| 36  | 15 | 21    | Easy start with level beginner         | 
-|[0x_pythonchallenge.com](#)  	         | 33       		| 0            		| 0      	|        	|             
-|[0x_odingbat.com/python](#)     	 | 72             	| 0  	          	| 0	    	|    	      	|               
-|[0x_edabit.com/challenges/python3](#) 	 | 100+           	| 0            		| 0       	|           	|          
+| Ongoing Exercices  	                 | Tot exercices	| Notes| 
+|:---	                                 |:---	          	|:---	      	|
+|[**01_practicepython.org**](https://github.com/pixelexio/CodingChallenges/tree/master/01%20-%20practicepython_org)| 36  | Easy start with level beginner         | 
+|[0x_pythonchallenge.com](#)  	         | 33       		|        	|             
+|[0x_odingbat.com/python](#)     	 | 72             	|    	      	|               
+|[0x_edabit.com/challenges/python3](#) 	 | 100+           	|           	|          
