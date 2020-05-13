@@ -18,6 +18,6 @@ Note that I will probably add some extra code to the easyest challenges for test
 | Ongoing Exercices  	                 | Tot exercices	| Notes| 
 |:---	                                 |:---	          	|:---	      	|
 |[**01_practicepython.org**](https://github.com/pixelexio/CodingChallenges/tree/master/01%20-%20practicepython_org)| 36  | Easy start with level beginner         | 
-|[0x_pythonchallenge.com](#)  	         | 33       		|        	|             
-|[0x_odingbat.com/python](#)     	 | 72             	|    	      	|               
-|[0x_edabit.com/challenges/python3](#) 	 | 100+           	|           	|          
+|[0x_pythonchallenge.com](#)  	         | 33       		| Not started.        	|             
+|[0x_odingbat.com/python](#)     	 | 72             	| Not started.   	      	|               
+|[0x_edabit.com/challenges/python3](#) 	 | 100+           	| Not started.          	|          
